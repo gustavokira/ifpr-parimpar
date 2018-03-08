@@ -1,0 +1,23 @@
+IDEs recomendadas 
+(não obrigatórias! se quiser compilar na linha de comando, usar vim, etc etc... seja feliz):
+online: https://repl.it
+offline: Eclipse ou Netbeans.
+
+Palavras reservadas importantes para este exercício: this, null, Scanner.
+Conceitos importantes: Orientação a objetos, métodos, entrada e saida de dados.
+
+Caso escolher usar o https://repl.it, abrir o arquivo que está dentro da
+pasta online copiar o código e colar no espaço de escrita do repl.
+
+Caso escolher Eclipse ou Netbeans colocar os arquivos no seu projeto. As classes Jogador e ParImpar devem ficar em arquivos do mesmo nome obrigatóriamente (obrigação do Java, não da disciplina) e o App é a classe que tem o método main. Caso o projeto criado pela IDE já tenha uma classe com um método main, pode ser mais fácil transferir a lógica de uma para outra.
+
+Exercícios:
+Antes de começar, pense onde e como devem ser guardadas estas informações. Lembre-se que programação orientada a objetos envolve como organizar o código além da sua lógica.
+
+1) Faça o jogo rodar três vezes seguidas.
+2) Faça o jogo ser "melhor de três".
+3) Use a classe Scanner para fazer com que o programa receba inputs de pessoas (Ver o exemplo de uso da classe scanner).
+4) Faça com que seja possível escolher entre "melhor de cinco", "melhor de três" ou jogo normal. 
+5) Ao final de cada jogo, mostre quantas vezes cada um dos dois jogadores ganhou até o momento.
+
+6) Com base neste exemplo, faça um "dois ou um" com três jogadores.
